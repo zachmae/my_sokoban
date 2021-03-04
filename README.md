@@ -23,6 +23,7 @@ how to compile?
 - simply by using "make" command, i also put make clean, fclean and re command to recompile and clean your folder
 
 how to play it?
+
 ./my_sokoban map.txt
 or
 "./my_sokoban -h" to get the complete usage
