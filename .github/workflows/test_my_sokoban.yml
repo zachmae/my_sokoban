@@ -1,4 +1,4 @@
-name: 107transfer
+name: my_sokoban
 
 on:
   push:
